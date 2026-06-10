@@ -1,0 +1,15 @@
+# Large data files — do NOT commit these to GitHub
+candidates.jsonl
+candidates.jsonl.gz
+sample_candidates.json
+*.jsonl
+*.jsonl.gz
+
+# Submission output
+submission.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.env
