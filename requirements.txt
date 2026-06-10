@@ -1,0 +1,7 @@
+# Redrob Hackathon — requirements
+# All standard library except these:
+# (rank.py uses only Python standard library — no pip installs needed!)
+# But install these anyway for the Streamlit sandbox demo:
+
+streamlit>=1.30.0
+pandas>=2.0.0
