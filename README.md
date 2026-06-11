@@ -83,7 +83,7 @@ redrob_ranker/
 ## Sandbox / Demo
 
 Live demo on Streamlit Cloud:  
-👉 **[your-streamlit-link-here]** *(deploy via streamlit.io/cloud after pushing to GitHub)*
+👉 **(https://rankingcandidate-rn3cstdvjfjtcpbys3vjms.streamlit.app/)** 
 
 Upload any subset of `candidates.jsonl` (up to 100 candidates) and get a ranked CSV output instantly.
 
@@ -98,4 +98,4 @@ Upload any subset of `candidates.jsonl` (up to 100 candidates) and get a ranked 
 
 ## AI tools declaration
 
-Built with assistance from Claude (Anthropic) for code structure and documentation.
+Built with assistance from copilot for code structure debug and documentation.
